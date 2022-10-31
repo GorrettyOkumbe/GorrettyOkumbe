@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GorrettyOkumbe
-- 👀 I’m interested in software engineering and data science
-- 🌱 I’m currently learning sofware at alx and data science at World Quant
-- 💞️ I’m looking to collaborate on any projects on data science
+- 👀 Interested in software engineering and data science
+- 🌱 Currently learning sofware at alx and data science at World Quant
+- 💞️ Looking to collaborate on any projects on data science
 - 📫 How to reach me via email okumbegorretty4@gmail.com
 
 <!---
